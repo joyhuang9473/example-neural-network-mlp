@@ -1,0 +1,3 @@
+[submodule "example-neural-network-mlp-document"]
+	path = document
+	url = https://github.com/joyhuang-note/example-neural-network-mlp-document.git
